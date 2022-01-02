@@ -17,7 +17,7 @@ class Config(object):
     API_ID =   4759912
     API_HASH = "5bcc548f108e30a913a339a4f97f315c"
     BOT_ID = "5059068789"
-    TOKEN = "5059068789:AAFghpw5-XmbpG9LxxyvV8hcWhCT2rmVFqo"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5059068789:AAG1p9zixkDPEUZCjlKOz1g-OjPWaH1Xx0g"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1323719429  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "Aryanjawale"
     SUDO_USERS = "1323719429"
