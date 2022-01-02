@@ -43,7 +43,7 @@ class Config(object):
     BOT_USERNAME = "HawkMoth_rbot"
     SPAMWATCH_API = "M7r11AlyDZGvFh2F9U6umCS96iVvyMC~Bo9khw2cKMcYvRBYyDOUNJ7FLQqEEwgP"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
-    ARQ_API_KEY = "GBVANC-POIBJH-XAYVHT-XZBPTG-ARQ"
+    ARQ_API_KEY = "ALXAUY-TFKZWT-WXEHJO-IJCPWM-ARQ"
     ARQ_API_URL = "https://thearq.tech/"
     TEMP_DOWNLOAD_DIRECTORY = "./"
     OPENWEATHERMAP_ID = ""
