@@ -48,7 +48,7 @@ class Config(object):
     TEMP_DOWNLOAD_DIRECTORY = "./"
     OPENWEATHERMAP_ID = ""
     VIRUS_API_KEY = ""
-    REDIS_URL = "redis://Zaidrobot:Anmol@123@redis-12356.c284.us-east1-2.gce.cloud.redislabs.com:12356/Zaidrobot"
+    REDIS_URL = "redis://default:rZ4wsIc4KmvNZQQMTQ96@containers-us-west-9.railway.app:5654"
     LASTFM_API_KEY = ""
     
 
@@ -86,7 +86,7 @@ class Config(object):
     SPAMMERS = None
     REM_BG_API_KEY = "dxsh728mZMDmj4ijSZCNPZig"
     GENIUS_API_TOKEN = ""
-    MONGO_DB = "mongodb+srv://akugay:akugay@cluster22.ly1qn.mongodb.net/akugay?retryWrites=true&w=majority"
+    MONGO_DB = "mongodb://mongo:rKYNPLjN2WIJPg13JS6y@containers-us-west-25.railway.app:7535"
     
 
 class Production(Config):
